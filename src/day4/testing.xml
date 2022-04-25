@@ -1,0 +1,13 @@
+<suite name="smoke">
+	<test name="testcase1">
+		<classes>
+			<class name="day4.TestD" />
+		</classes>
+	</test>
+	<test name="testcase2">
+		<classes>
+			<class name="day4.TestC" />
+		</classes>
+	</test>
+	
+</suite>

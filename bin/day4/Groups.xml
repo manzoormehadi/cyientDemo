@@ -1,0 +1,27 @@
+<suite name="functional">
+	<test name="smoke testing">
+		<groups>
+			<run>
+				<include name="smoke" />
+			</run>
+		</groups>
+		<classes>
+			<class name="day4.TestA" />
+			<class name="day4.TestB" />
+		</classes>
+	</test>
+	
+	<test name="functional testing">
+		<groups>
+			<run>
+				<include name="functional" />
+			</run>
+		</groups>
+		<classes>
+			<class name="day4.TestA" />
+			<class name="day4.TestB" />
+		</classes>
+	</test>
+	
+
+</suite>

@@ -1,0 +1,9 @@
+<suite name="functional">
+	<test name="testcase1">
+		<classes>
+			<class name="day4.TestA" />
+			<class name="day4.TestB" />
+		</classes>
+	</test>
+	
+</suite>
